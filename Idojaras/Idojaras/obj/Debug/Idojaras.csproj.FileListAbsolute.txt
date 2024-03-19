@@ -1,0 +1,16 @@
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\bin\Debug\Idojaras.exe.config
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\bin\Debug\Idojaras.exe
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\bin\Debug\Idojaras.pdb
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\MainWindow.g.cs
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\App.g.cs
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras_MarkupCompile.cache
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras_MarkupCompile.lref
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\MainWindow.baml
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras.g.resources
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras.Properties.Resources.resources
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras.csproj.GenerateResource.cache
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras.exe
+C:\Users\Diák\Desktop\c\Idojaras\Idojaras\obj\Debug\Idojaras.pdb

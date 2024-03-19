@@ -1,0 +1,16 @@
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\bin\Debug\Tomi Gyalázó.exe.config
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\bin\Debug\Tomi Gyalázó.exe
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\bin\Debug\Tomi Gyalázó.pdb
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi Gyalázó.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi Gyalázó.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\MainWindow.g.cs
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\App.g.cs
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi Gyalázó_MarkupCompile.cache
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi Gyalázó_MarkupCompile.lref
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\MainWindow.baml
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi Gyalázó.g.resources
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi_Gyalázó.Properties.Resources.resources
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi Gyalázó.csproj.GenerateResource.cache
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi Gyalázó.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi Gyalázó.exe
+C:\Users\Diák\Desktop\c\Tomi Gyalázó\Tomi Gyalázó\obj\Debug\Tomi Gyalázó.pdb
